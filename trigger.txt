@@ -1,1 +1,1 @@
-https://dh-mirror.gitverse.ru registry.cn-hangzhou.aliyuncs.com/dock_pro/https://dh-mirror.gitverse.ru
+library/busybox:latest registry.cn-hangzhou.aliyuncs.com/dock_pro/library/busybox:latest
